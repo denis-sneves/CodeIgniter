@@ -1,4 +1,7 @@
-folder name is CI
+###################
+Folder name is CI
+###################
+
 
 ###################
 What is CodeIgniter
